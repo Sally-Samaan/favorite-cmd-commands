@@ -1,23 +1,13 @@
 # favorite-cmd-commands
 
-#open . 
+# open . 
 to *open* finder window from current directory
 
-#touch     
+# touch     
 The touch command allows you to *create* new 
 empty files or **update the timestamp on existing files 
 or directories**. 
 
-#ls -a         
+# ls -a         
 *List all* the files in the current directory
 including hidden files too
-
-
-```
- <html>
-    <head>
-    </head>
-    <body>
-    </body>
-</html>
-```
